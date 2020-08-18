@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import NavBar from '../components/common/Navbar'
+import NavBar from '../components/userComponent/Navbar'
 import editBanner from '../components/common/editBanner'
 export default {
   data(){

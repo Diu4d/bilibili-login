@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import Navbar from '../components/common/Navbar'
+import Navbar from '../components/userComponent/Navbar'
 import userDatail from '../components/userComponent/userDetail'
 export default {
   data(){
