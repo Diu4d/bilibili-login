@@ -28,7 +28,7 @@
     <div class="user_name">
       <h2>{{userInfo.name}}</h2>
       <p v-if="userInfo.user_desc">{{userInfo.user_desc}}</p>
-      <p v-else>阿巴巴巴ba</p>
+      <p v-else>阿巴巴巴</p>
     </div>
   </div>
 </template>
